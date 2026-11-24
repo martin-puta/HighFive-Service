@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "HighFive Service",
+    "slug": "highfive-service",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#F4F7FC"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#1464E8"
+      },
+      "package": "com.martinputa003.highfiveservice"
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "4a391063-a628-40e6-9eb8-9c0bde05b644"
+      }
+    }
+  }
+}
