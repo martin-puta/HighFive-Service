@@ -1,9 +1,11 @@
+
 {
   "expo": {
     "name": "HighFive Service",
     "slug": "highfive-service",
     "version": "1.0.0",
     "orientation": "portrait",
+    "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "backgroundColor": "#F4F7FC"
@@ -15,7 +17,9 @@
       "supportsTablet": true
     },
     "android": {
+      "icon": "./assets/icon.png",
       "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#1464E8"
       },
       "package": "com.martinputa003.highfiveservice"
